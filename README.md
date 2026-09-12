@@ -1,2 +1,7 @@
-# custom-chatbot-web
-과학교사K 챗봇 웹앱 배포 파일
+# 과학교사K의 챗봇
+
+웹앱 배포 파일 전용 저장소입니다.
+
+[웹앱 접속](https://science-k.github.io/custom-chatbot-web/)
+
+원본 소스와 서버 코드는 별도 비공개 저장소에서 관리합니다. 이 저장소에는 브라우저 실행 파일만 포함합니다.
